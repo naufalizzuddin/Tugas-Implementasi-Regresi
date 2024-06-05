@@ -2,7 +2,7 @@
 ## Deskripsi
 Merupakan implementasi kode untuk permasalahan Regresi yang dibuat dengan bahasa Python. Berisikan 2 metode penyelesaian yaitu:
 - Regresi Linear
-- Regresi Pangkat Sederhana <br>
+- Regresi Pangkat Sederhana <br> 
 
 |   |   |
 |---|---|
