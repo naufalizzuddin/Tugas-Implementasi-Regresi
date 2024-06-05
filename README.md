@@ -11,6 +11,8 @@ Merupakan implementasi kode untuk permasalahan Regresi yang dibuat dengan bahasa
 |Kelas | Metode Numerik B| 
 <br>
 
+## Dataset
+file Student_Performance.csv <br>
 ## Hasil
 - Regresi Linear <br>
 ![Regresi Linear](hasil/image.png)
