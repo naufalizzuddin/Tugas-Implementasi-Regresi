@@ -4,11 +4,6 @@ Merupakan implementasi kode untuk permasalahan Regresi yang dibuat dengan bahasa
 - Regresi Linear
 - Regresi Pangkat Sederhana <br> 
 
-|   |   |
-|---|---|
-|Nama | Naufal Izzuddin Taufik |
-|NIM | 21120122140102 |
-|Kelas | Metode Numerik B| 
 <br>
 
 ## Dataset
